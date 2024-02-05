@@ -1,4 +1,5 @@
-- 👋 Hi, I’m MANSI SANDASANI.[AWS Certified Cloud Practitioner certificate.pdf](https://github.com/msandasani/msandasani/files/14171742/AWS.Certified.Cloud.Practitioner.certificate.pdf)
+- 👋 Hi, I’m MANSI SANDASANI.![aws-certified-cloud-practitioner (3)](https://github.com/msandasani/msandasani/assets/155064163/e53f1c1a-c957-458d-8b97-a4f5b15a182f)
+
 
 - 👀 Graduate in Computer and Information Science at University of North Texas, Denton, United States.
 - 🌱 My technical skills are C, Java, Data Structures and Algorithms, Spring Boot & Micro Services, JavaScript, Angular, SQL, Python, HTML5, 
