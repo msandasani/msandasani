@@ -10,7 +10,7 @@ Windows, Linux.
 - 🌱 Certified in Cloud Practitioner Certification by Amazon Web Services(AWS) 
 - ⚡ Professional Experience: Worked at ACCENTURE, India as an Application Development Associate and also at DXC TECHNOLOGY as an Associate Professional Software Engineer.
 - 📫 You can reach me at https://www.linkedin.com/in/mansi-sandasani/
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her.
 
 <!---
 msandasani/msandasani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
